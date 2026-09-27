@@ -205,6 +205,7 @@
     <string enum="dummy" LineId="1085" value="Air Copter" />
     <string enum="dummy" LineId="1086" value="Forklift" />
     <string enum="dummy" LineId="1087" value="Car Forklift" />
+    <string enum="dummy" LineId="1088" value="SFPD Bike" />
     <string enum="dummy" LineId="2000" value="Buddy System" />
     <string enum="dummy" LineId="2001" value="Sitara Dhawan" />
     <string enum="dummy" LineId="2002" value="TEMP: Hang out with Sitara!" />
@@ -698,6 +699,7 @@
     <string enum="dummy" LineId="14149" value="Gun Shop" />
     <string enum="dummy" LineId="14150" value="Bar" />
     <string enum="dummy" LineId="14154" value="Objective" />
+    <string enum="dummy" LineId="14161" value="Shell Game" />
     <string enum="dummy" LineId="14164" value="ATM" />
     <string enum="dummy" LineId="14257" value="NEW LEAD -" />
     <string enum="dummy" LineId="14259" value="Mission Failed -" />
@@ -2744,8 +2746,35 @@
     <string enum="dummy" LineId="44974" value="Workbench" />
     <string enum="dummy" LineId="49810" value="Intervene" />
     <string enum="dummy" LineId="49811" value="Protect" />
+    <string enum="dummy" LineId="50000" value="[PHOTOMODE_FORWARD][PHOTOMODE_LEFT][PHOTOMODE_BACKWARD][PHOTOMODE_RIGHT] Move [PHOTOMODE_UP][PHOTOMODE_DOWN] Up and Down [PHOTOMODE_ROLL_LEFT][PHOTOMODE_ROLL_RIGHT] Roll&#xA;[PHOTOMODE_PAUSE] (Press) Toggle Pause [PHOTOMODE_PAUSE] (Hold/Release) Cherry-Pick [PHOTOMODE_HUD] (Hold) Toggle HUD&#xA;[PHOTOMODE_FOV] FOV [PHOTOMODE_ATTACH] (Hold) Attach [PHOTOMODE_CAPTUREMODE] Gameplay Camera Mode [PHOTOMODE_PHYSICS] (Press) Toggle Player Physics [PHOTOMODE_LIGHTMODE] (Hold) Light Spawner Mode" />
+    <string enum="dummy" LineId="50001" value="Light Spawned" />
+    <string enum="dummy" LineId="50002" value="Light Deleted" />
+    <string enum="dummy" LineId="50003" value="[PHOTOMODE_LIGHT_FORWARD][PHOTOMODE_LIGHT_LEFT][PHOTOMODE_LIGHT_BACKWARD][PHOTOMODE_LIGHT_RIGHT] Move [PHOTOMODE_LIGHT_UP][PHOTOMODE_LIGHT_DOWN] Up and Down [PHOTOMODE_LIGHT_ROTATE_LEFT][PHOTOMODE_LIGHT_ROTATE_RIGHT] Rotate&#xA;[PHOTOMODE_LIGHT_CYCLE_LEFT][PHOTOMODE_LIGHT_CYCLE_RIGHT] Select Light Slot [PHOTOMODE_LIGHT_MODEL_LEFT][PHOTOMODE_LIGHT_MODEL_RIGHT] Change model&#xA;[PHOTOMODE_LIGHT_ADD] Spawn light [PHOTOMODE_LIGHT_DEL] Remove light" />
+    <string enum="dummy" LineId="50004" value="Attached to player" />
+    <string enum="dummy" LineId="50005" value="Detached from player" />
+    <string enum="dummy" LineId="50006" value="Player Physics Off" />
+    <string enum="dummy" LineId="50007" value="Player Physics On" />
+    <string enum="dummy" LineId="50008" value="Photo Mode Unavailable" />
+    <string enum="dummy" LineId="50009" value="Photo Mode TEMP STRING" />
+    <string enum="dummy" LineId="50010" value="Photo Mode TEMP STRING" />
+    <string enum="dummy" LineId="50011" value="Light Slot 1" />
+    <string enum="dummy" LineId="50012" value="Light Slot 2" />
+    <string enum="dummy" LineId="50013" value="Light Slot 3" />
+    <string enum="dummy" LineId="50014" value="Light Slot 4" />
+    <string enum="dummy" LineId="50015" value="Light Slot 5" />
+    <string enum="dummy" LineId="50016" value="Light Slot 6" />
+    <string enum="dummy" LineId="50017" value="Light Slot 7" />
+    <string enum="dummy" LineId="50018" value="Light Slot 8" />
     <string enum="dummy" LineId="50186" value="Skill Tree" />
     <string enum="dummy" LineId="50427" value="Camera already in use" />
+    <string enum="dummy" LineId="50511" value="Light Slot 1 (Spawned)" />
+    <string enum="dummy" LineId="50512" value="Light Slot 2 (Spawned)" />
+    <string enum="dummy" LineId="50513" value="Light Slot 3 (Spawned)" />
+    <string enum="dummy" LineId="50514" value="Light Slot 4 (Spawned)" />
+    <string enum="dummy" LineId="50515" value="Light Slot 5 (Spawned)" />
+    <string enum="dummy" LineId="50516" value="Light Slot 6 (Spawned)" />
+    <string enum="dummy" LineId="50517" value="Light Slot 7 (Spawned)" />
+    <string enum="dummy" LineId="50518" value="Light Slot 8 (Spawned)" />
     <string enum="dummy" LineId="52587" value="417" />
     <string enum="dummy" LineId="52588" value="Burst-Fire Assault Rifle" />
     <string enum="dummy" LineId="52589" value="The 417 is a German-made burst-fire assault rifle. Its impressive accuracy and penetration make it well-suited for ranged combat." />
@@ -2800,6 +2829,7 @@
     <string enum="dummy" LineId="52939" value="Semi-Auto Sniper Rifle" />
     <string enum="dummy" LineId="52960" value="The Snayperskaya Vintovka Dragunova is a Russian sniper rifle that's lightweight, and easy to use. Its rounds offer average penetration." />
     <string enum="dummy" LineId="53071" value="[AMMO_LAUNCHER] Launcher ammunition: %u" />
+    <string enum="dummy" LineId="53073" value="[AMMO_LAUNCHER] Sticky Launcher ammunition: %u" />
     <string enum="dummy" LineId="59280" value="[ONLINE_ACTIVITY_HACKING] Stay in the hacking area" />
     <string enum="dummy" LineId="63784" value="ATM hacked" />
     <string enum="dummy" LineId="63807" value="Item of Interest" />
@@ -11159,7 +11189,7 @@
     <string enum="dummy" LineId="316496" value="CharacterName: TEXT" />
     <string enum="dummy" LineId="316499" value="Police Database" />
     <string enum="dummy" LineId="316512" value="Horatio" />
-    <string enum="dummy" LineId="316513" value="Flores" />
+    <string enum="dummy" LineId="316513" value="Carlin" />
     <string enum="dummy" LineId="316514" value="Nudle Programmer" />
     <string enum="dummy" LineId="316515" value="Senior Care Volunteer" />
     <string enum="dummy" LineId="316516" value="Mateo" />
@@ -11531,6 +11561,7 @@
     <string enum="dummy" LineId="332138" value="Lv. %u" />
     <string enum="dummy" LineId="332139" value="Landmark Progression" />
     <string enum="dummy" LineId="332140" value="Infiltrate tech companies by hacking their SECURITY LEVELS:&#xA;&#xA;1. Collect CREDENTIALS through hacking and missions&#xA;2. Use credentials to decrypt the SECURITY SERVER&#xA;3. Enter a security door to access the next SECURITY LEVEL&#xA;&#xA;Access the highest security level to earn a UNIQUE REWARD!" />
+    <string enum="dummy" LineId="332141" value="Landmark Progression (Unavailable)" />
     <string enum="dummy" LineId="332152" value="Who's a good boy?" />
     <string enum="dummy" LineId="332153" value="That's a good doggie!" />
     <string enum="dummy" LineId="332154" value="Aren't you friendly!" />
@@ -18910,7 +18941,7 @@
     <string enum="dummy" LineId="496838" value="Trigger Gates and Steam Pipes when enemy vehicles pass nearby. Press [HACKLEFT] with the indicated timing. &#xA;&#xA;Costs [BOTNET] 4 Botnet Resources." />
     <string enum="dummy" LineId="496840" value="Melee knockouts become faster while in combat state." />
     <string enum="dummy" LineId="496841" value="Press [TAKEDOWN] to take down Armored Enemies and Enforcers." />
-    <string enum="dummy" LineId="496842" value="Reduces damage taken from bullets while performing parkour actions. &#xA;&#xA;75% Bullet damage reduction." />
+    <string enum="dummy" LineId="496842" value="Reduces damage taken from all sources (including fall damage) while performing parkour actions. &#xA;&#xA;50% Damage reduction." />
     <string enum="dummy" LineId="496843" value="This hack sends a distraction to civilian phones or blasts feedback in enemy headsets. It also cancels 911 and reinforcement calls.&#xA;&#xA;To Distract someone, press [HACK], or hold [HACK] then press the [HACKUP] option. Costs [BOTNET] 2 Botnet Resources." />
     <string enum="dummy" LineId="496844" value="Knocks people out temporarily. &#xA;&#xA;Throw with [CONSUMABLE], then neutralize nearby NPCs with [HACK]. Hold [HACK] for more options.&#xA;&#xA;Simultaneously press [HACK] and [CONSUMABLE] to remotely detonate all deployed Electro-Shock Devices." />
     <string enum="dummy" LineId="496848" value="Fuck does this do?" />
@@ -19402,8 +19433,8 @@
     <string enum="dummy" LineId="517479" value="Target Weakness" />
     <string enum="dummy" LineId="517487" value="Grenadier" />
     <string enum="dummy" LineId="517488" value="Stun Amp Up" />
-    <string enum="dummy" LineId="517489" value="Hipster of Death" />
-    <string enum="dummy" LineId="517490" value="Increases damage dealt by grenade launchers." />
+    <string enum="dummy" LineId="517489" value="Hipster Merchant of Death" />
+    <string enum="dummy" LineId="517490" value="Increases damage dealt by grenade launchers. Looting ammo has a chance to refill grenade launcher ammo." />
     <string enum="dummy" LineId="517492" value="Allows the Stun Gun to shoot three times before reloading and upgrades its rate-of-fire." />
     <string enum="dummy" LineId="517493" value="Upgrade pistol rate-of-fire to as fast as the trigger can be pulled." />
     <string enum="dummy" LineId="517494" value="Increases damage dealt by pistols." />
@@ -37601,6 +37632,7 @@
     <string enum="dummy" LineId="686437" value="Bitflip&#xA;Glasses" />
     <string enum="dummy" LineId="686441" value="PROTOCOL PISTOL" />
     <string enum="dummy" LineId="686442" value="This gold-plated powerhouse is a must-have for gangsters and dictators around the world. The PROTOCOL PISTOL will tell them who's boss.&#xA;Find it at the 3D printer in any hackerspace." />
+    <string enum="dummy" LineId="686443" value="This gold-plated powerhouse is a must-have for gangsters and dictators around the world. The PROTOCOL PISTOL will tell them who's boss." />
     <string enum="dummy" LineId="686451" value="Protocol Pistol" />
     <string enum="dummy" LineId="686454" value="Makeshift Stun Gun Skin" />
     <string enum="dummy" LineId="686455" value="People with advanced machining skills and a 3D printer will never go unarmed. Show your style with this homebrew Stun Gun skin." />
@@ -49355,6 +49387,8 @@
     <string enum="dummy" LineId="2000026" value="Complete missions to unlock new world locations:&#xA;• These areas are usually patrolled by groups of enemies. &#xA;• Locations might contain items of interest such as additional loot or a safe.&#xA;&#xA;This location was unlocked after main mission [CSS_TUTO_ORANGE]Chinatown Shuffle[CSS_END]." />
     <string enum="dummy" LineId="2000027" value="Complete missions to unlock new world locations:&#xA;• These areas are usually patrolled by groups of enemies. &#xA;• Locations might contain items of interest such as additional loot or a safe.&#xA;&#xA;This location was unlocked after DLC mission [CSS_TUTO_ORANGE]Biometric Heist[CSS_END]. Note: DLC locations are unlocked by default if you don't own the DLC." />
     <string enum="dummy" LineId="2000028" value="#Yacht" />
+    <string enum="dummy" LineId="2000029" value="Unavailable: [CSS_PURPLE]Online Operation[CSS_END] nearby.&#xA;&#xA;Complete missions to unlock new world locations:&#xA;• These areas are usually patrolled by groups of enemies. &#xA;• Locations might contain items of interest such as additional loot or a safe.&#xA;&#xA;This location was unlocked after main operation [CSS_TUTO_ORANGE]Haum Sweet Haum[CSS_END]." />
+    <string enum="dummy" LineId="2000030" value="Unavailable: [CSS_PURPLE]Online Operation[CSS_END] nearby.&#xA;&#xA;Complete missions to unlock new world locations:&#xA;• These areas are usually patrolled by groups of enemies. &#xA;• Locations might contain items of interest such as additional loot or a safe.&#xA;&#xA;This location was unlocked after main mission [CSS_TUTO_ORANGE]Chinatown Shuffle[CSS_END]." />
     <string enum="dummy" LineId="3000100" value="Var. 100" />
     <string enum="dummy" LineId="3000101" value="Var. 101" />
     <string enum="dummy" LineId="3000102" value="Var. 102" />
@@ -49651,14 +49685,14 @@
     <string enum="dummy" LineId="20000400" value="$%u" />
     <string enum="dummy" LineId="20000401" value="Money stolen:" />
     <string enum="dummy" LineId="20000402" value="Lottery Winner" />
-    <string enum="dummy" LineId="20000403" value="ctOS operator hacked Road Spikes [CSS_OPERATOR][COMPANIONICON][CSS_END]" />
-    <string enum="dummy" LineId="20000404" value="ctOS operator hacked Road Barrier [CSS_OPERATOR][COMPANIONICON][CSS_END]" />
-    <string enum="dummy" LineId="20000405" value="ctOS operator hacked Bollards [CSS_OPERATOR][COMPANIONICON][CSS_END]" />
+    <string enum="dummy" LineId="20000403" value="ctOS operator triggered Road Spikes [CSS_OPERATOR][COMPANIONICON][CSS_END]" />
+    <string enum="dummy" LineId="20000404" value="ctOS operator triggered Road Barrier [CSS_OPERATOR][COMPANIONICON][CSS_END]" />
+    <string enum="dummy" LineId="20000405" value="ctOS operator triggered Bollards [CSS_OPERATOR][COMPANIONICON][CSS_END]" />
     <string enum="dummy" LineId="20000406" value="ctOS operator active" />
     <string enum="dummy" LineId="20000407" value="ctOS operator inactive" />
     <string enum="dummy" LineId="20000408" value="Umeni-Zulu requested ctOS operator" />
     <string enum="dummy" LineId="20000409" value="FBI requested ctOS operator" />
-    <string enum="dummy" LineId="20000410" value="[CSS_OPERATOR]Hacked by ctOS Operator[CSS_END]" />
+    <string enum="dummy" LineId="20000410" value="[CSS_OPERATOR]Triggered by ctOS Operator[CSS_END]" />
     <string enum="dummy" LineId="20000411" value="ctOS operator retreated" />
     <string enum="dummy" LineId="20000412" value="ctOS operator upgraded" />
     <string enum="dummy" LineId="20000413" value="Police requested ctOS operator" />
@@ -49743,7 +49777,7 @@
     <string enum="dummy" LineId="20000498" value="Arcade Machines" />
     <string enum="dummy" LineId="20000499" value="Visit a tattoo parlor to: &#xA;&#xA;• Purchase and change body tattoos.&#xA;• Access all purchased clothes from any clothing shops or hackerspace [HACKERSPACE].&#xA;• Access the Premium Store." />
     <string enum="dummy" LineId="20000500" value="Tattoo Parlors" />
-    <string enum="dummy" LineId="20000501" value="Interact with an arcade machine to: &#xA;&#xA;• Get back into the world of Digital Trips. &#xA;• Become the Prototype Spider-Tank. &#xA;• Cause mayhem in the city. &#xA;• Lots of fun included, unles you have arachnophobia." />
+    <string enum="dummy" LineId="20000501" value="Interact with an arcade machine to: &#xA;&#xA;• Get back into the world of Digital Trips. &#xA;• Become the Prototype Spider-Tank. &#xA;• Cause mayhem in the city. &#xA;• Lots of fun included, unless you have arachnophobia." />
     <string enum="dummy" LineId="20000502" value="Spider-Tank Carnage" />
     <string enum="dummy" LineId="20000503" value="Arcade Machine" />
     <string enum="dummy" LineId="20000504" value="Health regeneration boost has expired" />
@@ -49763,16 +49797,7 @@
     <string enum="dummy" LineId="20000519" value="Tattoos" />
     <string enum="dummy" LineId="20000520" value="Get High" />
     <string enum="dummy" LineId="20000521" value="Play Spider-Tank Carnage" />
-    <string enum="dummy" LineId="66660001" value="Var. 1" />
-    <string enum="dummy" LineId="66660002" value="Var. 2" />
-    <string enum="dummy" LineId="66660003" value="Var. 3" />
-    <string enum="dummy" LineId="66660004" value="Var. 4" />
-    <string enum="dummy" LineId="66660005" value="Var. 5" />
-    <string enum="dummy" LineId="66660006" value="Var. 6" />
-    <string enum="dummy" LineId="66660007" value="Var. 7" />
-    <string enum="dummy" LineId="66660008" value="Var. 8" />
-    <string enum="dummy" LineId="66660009" value="Var. 9" />
-    <string enum="dummy" LineId="100000010" value="[CANCEL] Stop at 10:00 AM" />
+        <string enum="dummy" LineId="100000010" value="[CANCEL] Stop at 10:00 AM" />
     <string enum="dummy" LineId="100000011" value="[CANCEL] Stop at 11:00 AM" />
     <string enum="dummy" LineId="100000012" value="[CANCEL] Stop at 12:00 AM" />
     <string enum="dummy" LineId="100000013" value="[CANCEL] Stop at 1:00 PM" />
@@ -49802,101 +49827,11 @@
     <string enum="dummy" LineId="100000037" value="Lose your Pursuers" />
     <string enum="dummy" LineId="372581782" value="Lazy Pants&#xA;&quot;Ez&quot;" />
     <string enum="dummy" LineId="372581804" value="Bomber Jacket&#xA;Basic Blues" />
-    <string enum="dummy" LineId="666600010" value="Var. 10" />
-    <string enum="dummy" LineId="666600011" value="Var. 11" />
-    <string enum="dummy" LineId="666600012" value="Var. 12" />
-    <string enum="dummy" LineId="666600013" value="Var. 13" />
-    <string enum="dummy" LineId="666600014" value="Var. 14" />
-    <string enum="dummy" LineId="666600015" value="Var. 15" />
-    <string enum="dummy" LineId="666600016" value="Var. 16" />
-    <string enum="dummy" LineId="666600017" value="Var. 17" />
-    <string enum="dummy" LineId="666600018" value="Var. 18" />
-    <string enum="dummy" LineId="666600019" value="Var. 19" />
-    <string enum="dummy" LineId="666600020" value="Var. 20" />
-    <string enum="dummy" LineId="666600021" value="Var. 21" />
-    <string enum="dummy" LineId="666600022" value="Var. 22" />
-    <string enum="dummy" LineId="666600023" value="Var. 23" />
-    <string enum="dummy" LineId="666600024" value="Var. 24" />
-    <string enum="dummy" LineId="666600025" value="Var. 25" />
-    <string enum="dummy" LineId="666600026" value="Var. 26" />
-    <string enum="dummy" LineId="666600027" value="Var. 27" />
-    <string enum="dummy" LineId="666600028" value="Var. 28" />
-    <string enum="dummy" LineId="666600029" value="Var. 29" />
-    <string enum="dummy" LineId="666600030" value="Var. 30" />
-    <string enum="dummy" LineId="666600031" value="Var. 31" />
-    <string enum="dummy" LineId="666600032" value="Var. 32" />
-    <string enum="dummy" LineId="666600033" value="Var. 33" />
-    <string enum="dummy" LineId="666600034" value="Var. 34" />
-    <string enum="dummy" LineId="666600035" value="Var. 35" />
-    <string enum="dummy" LineId="666600036" value="Var. 36" />
-    <string enum="dummy" LineId="666600037" value="Var. 37" />
-    <string enum="dummy" LineId="666600038" value="Var. 38" />
-    <string enum="dummy" LineId="666600039" value="Var. 39" />
-    <string enum="dummy" LineId="666600040" value="Var. 40" />
-    <string enum="dummy" LineId="666600041" value="Var. 41" />
-    <string enum="dummy" LineId="666600042" value="Var. 42" />
-    <string enum="dummy" LineId="666600043" value="Var. 43" />
-    <string enum="dummy" LineId="666600044" value="Var. 44" />
-    <string enum="dummy" LineId="666600045" value="Var. 45" />
-    <string enum="dummy" LineId="666600046" value="Var. 46" />
-    <string enum="dummy" LineId="666600047" value="Var. 47" />
-    <string enum="dummy" LineId="666600048" value="Var. 48" />
-    <string enum="dummy" LineId="666600049" value="Var. 49" />
-    <string enum="dummy" LineId="666600050" value="Var. 50" />
-    <string enum="dummy" LineId="666600051" value="Var. 51" />
-    <string enum="dummy" LineId="666600052" value="Var. 52" />
-    <string enum="dummy" LineId="666600053" value="Var. 53" />
-    <string enum="dummy" LineId="666600054" value="Var. 54" />
-    <string enum="dummy" LineId="666600055" value="Var. 55" />
-    <string enum="dummy" LineId="666600056" value="Var. 56" />
-    <string enum="dummy" LineId="666600057" value="Var. 57" />
-    <string enum="dummy" LineId="666600058" value="Var. 58" />
-    <string enum="dummy" LineId="666600059" value="Var. 59" />
-    <string enum="dummy" LineId="666600060" value="Var. 60" />
-    <string enum="dummy" LineId="666600061" value="Var. 61" />
-    <string enum="dummy" LineId="666600062" value="Var. 62" />
-    <string enum="dummy" LineId="666600063" value="Var. 63" />
-    <string enum="dummy" LineId="666600064" value="Var. 64" />
-    <string enum="dummy" LineId="666600065" value="Var. 65" />
-    <string enum="dummy" LineId="666600066" value="Var. 66" />
-    <string enum="dummy" LineId="666600067" value="Var. 67" />
-    <string enum="dummy" LineId="666600068" value="Var. 68" />
-    <string enum="dummy" LineId="666600069" value="Var. 69" />
-    <string enum="dummy" LineId="666600070" value="Var. 70" />
-    <string enum="dummy" LineId="666600071" value="Var. 71" />
-    <string enum="dummy" LineId="666600072" value="Var. 72" />
-    <string enum="dummy" LineId="666600073" value="Var. 73" />
-    <string enum="dummy" LineId="666600074" value="Var. 74" />
-    <string enum="dummy" LineId="666600075" value="Var. 75" />
-    <string enum="dummy" LineId="666600076" value="Var. 76" />
-    <string enum="dummy" LineId="666600077" value="Var. 77" />
-    <string enum="dummy" LineId="666600078" value="Var. 78" />
-    <string enum="dummy" LineId="666600079" value="Var. 79" />
-    <string enum="dummy" LineId="666600080" value="Var. 80" />
-    <string enum="dummy" LineId="666600081" value="Var. 81" />
-    <string enum="dummy" LineId="666600082" value="Var. 82" />
-    <string enum="dummy" LineId="666600083" value="Var. 83" />
-    <string enum="dummy" LineId="666600084" value="Var. 84" />
-    <string enum="dummy" LineId="666600085" value="Var. 85" />
-    <string enum="dummy" LineId="666600086" value="Var. 86" />
-    <string enum="dummy" LineId="666600087" value="Var. 87" />
-    <string enum="dummy" LineId="666600088" value="Var. 88" />
-    <string enum="dummy" LineId="666600089" value="Var. 89" />
-    <string enum="dummy" LineId="666600090" value="Var. 90" />
-    <string enum="dummy" LineId="666600091" value="Var. 91" />
-    <string enum="dummy" LineId="666600092" value="Var. 92" />
-    <string enum="dummy" LineId="666600093" value="Var. 93" />
-    <string enum="dummy" LineId="666600094" value="Var. 94" />
-    <string enum="dummy" LineId="666600095" value="Var. 95" />
-    <string enum="dummy" LineId="666600096" value="Var. 96" />
-    <string enum="dummy" LineId="666600097" value="Var. 97" />
-    <string enum="dummy" LineId="666600098" value="Var. 98" />
-    <string enum="dummy" LineId="666600099" value="Var. 99" />
     <string enum="dummy" LineId="999800000" value="Flashbacks Tutorial" />
     <string enum="dummy" LineId="999800001" value="Flashbacks" />
     <string enum="dummy" LineId="999800002" value="These locations trigger strong memories for Marcus Holloway.&#xA;&#xA;Interact with a memory to experience missions and cutscenes that have been removed from the game." />
     <string enum="dummy" LineId="999800003" value="Memories" />
-    <string enum="dummy" LineId="999800004" value="Flashback: I Know Kung-Fu" />
+    <string enum="dummy" LineId="999800004" value="Flashback: I Know Kung Fu" />
     <string enum="dummy" LineId="999800005" value="Flashback: Meet DedSec at the hackerspace. &#xA;&#xA;Deleted cutscene." />
     <string enum="dummy" LineId="999800006" value="Flashback: Horatio's Crew (Intermission)" />
     <string enum="dummy" LineId="999800007" value="Flashback: Talk to Horatio at the Hackerspace. &#xA;&#xA;Deleted cutscene." />
@@ -49928,13 +49863,14 @@
     <string enum="dummy" LineId="999900012" value="No" />
     <string enum="dummy" LineId="999900013" value="You don't have enough cash" />
     <string enum="dummy" LineId="999900014" value="Maximum level reached" />
+    <string enum="dummy" LineId="999999931" value="Mask is forced off while wearing a beard" />
     <string enum="dummy" LineId="999999932" value="Sorry, we don't associate with wanted criminals! &#xA;There are too many cops nearby" />
     <string enum="dummy" LineId="999999933" value="TEMP" />
     <string enum="dummy" LineId="999999934" value="Paintshops" />
     <string enum="dummy" LineId="999999935" value="Paintshop" />
     <string enum="dummy" LineId="999999936" value="Sorry, we can't work on this vehicle!" />
     <string enum="dummy" LineId="999999937" value="Respraying..." />
-    <string enum="dummy" LineId="999999938" value="Cha-ching! New, fresh paintjob and new engine! &#xA;-$2000" />
+    <string enum="dummy" LineId="999999938" value="Cha-ching! New, fresh paintjob and a new engine! &#xA;-$2000" />
     <string enum="dummy" LineId="999999939" value="Cha-ching! New, fresh paintjob! &#xA;-$1000" />
     <string enum="dummy" LineId="999999940" value="You're too broke, get some money first..." />
     <string enum="dummy" LineId="999999941" value="Hold [INTERACT] to respray and repair this vehicle" />
@@ -50003,7 +49939,7 @@
     <string enum="dummy" LineId="1000000005" value="Body" />
     <string enum="dummy" LineId="1000000006" value="Special" />
     <string enum="dummy" LineId="1000000007" value="Hairstyle" />
-    <string enum="dummy" LineId="1000000008" value="Facial Hair &#xA;Coming Soon" />
+    <string enum="dummy" LineId="1000000008" value="Facial Hair" />
     <string enum="dummy" LineId="1000000009" value="Outfits" />
     <string enum="dummy" LineId="1000000010" value="Ability" />
     <string enum="dummy" LineId="1000000011" value="Face" />
@@ -50224,6 +50160,12 @@
     <string enum="dummy" LineId="1111000202" value="One-Handed Pistols&#xA;Aiming Mode Override" />
     <string enum="dummy" LineId="1111000203" value="Throwback Jacket&#xA;French Sport" />
     <string enum="dummy" LineId="1111000204" value="Two-Handed Pistols&#xA;Aiming Mode Override" />
+    <string enum="dummy" LineId="1111000205" value="Silk Jacket&#xA;I Know Kung Fu" />
+    <string enum="dummy" LineId="1111000206" value="Silk Pants&#xA;I Know Kung Fu" />
+    <string enum="dummy" LineId="1111000207" value="Shield Badge&#xA;Corrupt Cops" />
+    <string enum="dummy" LineId="1111000208" value="Firefighter Gear&#xA;Burning Man" />
+    <string enum="dummy" LineId="1111000209" value="Follower Mask&#xA;No Signal" />
+    <string enum="dummy" LineId="1111000210" value="Follower Mask&#xA;Dave" />
     <string enum="dummy" LineId="1183516348" value="Choppy &#xA;Full" />
     <string enum="dummy" LineId="1183516349" value="Choppy &#xA;Medium" />
     <string enum="dummy" LineId="1183516350" value="Choppy &#xA;Full Spike" />
@@ -50280,6 +50222,13 @@
     <string enum="dummy" LineId="1203516375" value="[HACK_REMOTECONTROLLEFT][BODY_LEFT] AFRICAN-AMERICAN 03 [BODY_RIGHT][HACK_REMOTECONTROLRIGHT]" />
     <string enum="dummy" LineId="1203516376" value="[HACK_REMOTECONTROLLEFT][BODY_LEFT] AFRICAN-AMERICAN 04 [BODY_RIGHT][HACK_REMOTECONTROLRIGHT]" />
     <string enum="dummy" LineId="1203516377" value="[HACK_REMOTECONTROLLEFT][BODY_LEFT] AIDEN PEARCE [BODY_RIGHT][HACK_REMOTECONTROLRIGHT]" />
+    <string enum="dummy" LineId="1203516378" value="[HACK_REMOTECONTROLLEFT][BODY_LEFT] THE WRENCH [BODY_RIGHT][HACK_REMOTECONTROLRIGHT]" />
+    <string enum="dummy" LineId="1203516379" value="[HACK_REMOTECONTROLLEFT][BODY_LEFT] JOSH SAUCHAK [BODY_RIGHT][HACK_REMOTECONTROLRIGHT]" />
+    <string enum="dummy" LineId="1203516380" value="[HACK_REMOTECONTROLLEFT][BODY_LEFT] DUSAN NEMEC [BODY_RIGHT][HACK_REMOTECONTROLRIGHT]" />
+    <string enum="dummy" LineId="1203516381" value="[HACK_REMOTECONTROLLEFT][BODY_LEFT] MARK THRUSS [BODY_RIGHT][HACK_REMOTECONTROLRIGHT]" />
+    <string enum="dummy" LineId="1203516382" value="[HACK_REMOTECONTROLLEFT][BODY_LEFT] JIMMY SISKA [BODY_RIGHT][HACK_REMOTECONTROLRIGHT]" />
+    <string enum="dummy" LineId="1203516383" value="[HACK_REMOTECONTROLLEFT][BODY_LEFT] BRODY GOODALE [BODY_RIGHT][HACK_REMOTECONTROLRIGHT]" />
+    <string enum="dummy" LineId="1203516384" value="[HACK_REMOTECONTROLLEFT][BODY_LEFT] JORDI CHIN [BODY_RIGHT][HACK_REMOTECONTROLRIGHT]" />
     <string enum="dummy" LineId="1213516353" value="Full: Tat-Bro" />
     <string enum="dummy" LineId="1213516354" value="Full: Tat-Bro (Alt)" />
     <string enum="dummy" LineId="1213516355" value="Hand: Double Luck" />
